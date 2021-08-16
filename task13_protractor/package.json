@@ -1,0 +1,12 @@
+{
+  "name": "appium_chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protractor.conf.mobile.js",
+  "scripts": {
+    "test:desktop": "protractor conf.desktop.js",
+    "test:mobile": "protractor conf.mobile.js"
+  },
+  "author": "Volha_Shablyka",
+  "license": "ISC"
+}
